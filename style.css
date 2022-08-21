@@ -1,0 +1,61 @@
+body {
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 10px;
+}
+
+.octocat{
+    width: 95%;
+}
+
+h1 {
+    color: midnightblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.bloque1 {
+    background-color: lightblue;
+    /*margin: auto;*/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.bloque2 {
+    background-color: rgb(214, 148, 159);
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+
+
+}
+
+.bloque3 {
+    display: flex;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+/** {
+    outline: 1px solid red;
+}*/
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#spider{
+    background-color: white;
+}
